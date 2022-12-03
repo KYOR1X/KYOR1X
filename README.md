@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/KYOR1X?logo=github&style=for-the-ba
 <a href="https://twitter.com/JustHodlEm" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@@KYORIX" target="_blank">
+<a href="https://hashnode.com/@KYORIX" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@KYORIX" target="_blank">
