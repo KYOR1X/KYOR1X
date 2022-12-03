@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
-###
+###  Skills
 
 <div align="left">
   <a href="https://twitter.com/JustHodlEm" target="_blank">
@@ -31,10 +31,12 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
   </a>
   <a href="https://medium.com/@KYORIX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" width="52" height="40" alt="medium logo"  />
+   
   </a>
 </div>
 
-### Skills
+###
 
 <a href="http://www.github.com/baytarikv07"><img src="https://github-readme-stats.vercel.app/api?username=baytarikv07&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baytarikv07's GitHub stats" /></a>
 
