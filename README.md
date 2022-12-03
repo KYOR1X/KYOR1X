@@ -37,10 +37,18 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
 
 ###
 
-<a href="https://github.com/KYOR1X"><img src="https://github-readme-stats.vercel.app/api?username=baytarikv07&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baytarikv07's GitHub stats" /></a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KYOR1X.KYOR1X&"  />
+</div>
 
-<a href="https://github.com/KYOR1X"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baytarikv07&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=KYOR1X" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Blockchain - React.js / Node.js / Solidity&username=KYOR1X" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
