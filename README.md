@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Hashnode](https://hashnode.com/@KYORIX) and [Medium](https://medium.com/@KYORIX)
-* ✉️  You can contact me at Telegram - @JustHodlEm
+* ✉️  You can contact me at [Telegram](https://t.me/JustHodlEm)
 * ⚡  Are you looking for a Tesnet, follow me :) 
 
 <a href="https://www.twitter.com/JustHodlEm" target="_blank" rel="noreferrer"><img
