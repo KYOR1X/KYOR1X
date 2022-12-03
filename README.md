@@ -1,4 +1,4 @@
-![React-icon svg](https://user-images.githubusercontent.com/116226765/205464775-30f13694-3e0b-44cf-888c-dd159d1b6159.png)
+![png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail](https://user-images.githubusercontent.com/116226765/205464799-42e9de2a-bf84-4dfe-a73f-265a0877f3e1.png)
 
 
 
