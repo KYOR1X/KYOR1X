@@ -11,7 +11,7 @@
 <a href="https://www.twitter.com/JustHodlEm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JustHodlEm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://github.com/KYOR1X" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JustHodlEm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/twitter/follow/JustHodlEm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  
 ### Other Social Networks
 
