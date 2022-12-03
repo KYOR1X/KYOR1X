@@ -1,5 +1,5 @@
-![png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail](https://user-images.githubusercontent.com/116226765/205464799-42e9de2a-bf84-4dfe-a73f-265a0877f3e1.png)
 
+![download](https://user-images.githubusercontent.com/116226765/205464811-8b78d0c4-c1c4-4ace-a3dd-f97d5edd15a4.png)
 
 
 
