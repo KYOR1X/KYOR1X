@@ -46,12 +46,6 @@ src="https://img.shields.io/github/followers/KYOR1X?logo=github&style=for-the-ba
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KYOR1X&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="xxxx" height="30" width="40" /></a>
-</p>
+
