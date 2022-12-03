@@ -31,12 +31,12 @@ src="https://img.shields.io/github/followers/KYOR1X?logo=github&style=for-the-ba
 ### Skills 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KYOR1X.KYOR1X&"  />
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KYOR1X&theme=dark&hide_border=false)<br/>
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KYOR1X.KYOR1X&"  />
+</div>
 
 
