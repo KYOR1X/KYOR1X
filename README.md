@@ -8,7 +8,7 @@
 * ✉️  You can contact me at Telegram - @JustHodlEm
 * ⚡  Are you looking for a Tesnet, follow me :) 
 
-<a href="https://www.twitter.com/baytarikv" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/JustHodlEm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/baytarikv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/baytarikv07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
