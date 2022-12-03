@@ -1,5 +1,6 @@
+![React-icon svg](https://user-images.githubusercontent.com/116226765/205464775-30f13694-3e0b-44cf-888c-dd159d1b6159.png)
 
-![Adsız (Kart (Yatay)) (1300 × 500 piksel)](https://user-images.githubusercontent.com/95782145/199624914-4451cafb-df90-4f8c-9a5c-0495b7a3e86e.png)
+
 
 
 * 🌍  I'm based in Turkey
