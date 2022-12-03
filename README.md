@@ -29,11 +29,7 @@ src="https://img.shields.io/github/followers/JustHodlEm?logo=github&style=for-th
 </div>
 
 ### Skills 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
- <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" width="52" height="40" alt="medium logo"  />
-</div>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyor1x&" alt="kyor1x" /></p>
@@ -41,3 +37,15 @@ src="https://img.shields.io/github/followers/JustHodlEm?logo=github&style=for-th
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KYOR1X.KYOR1X&"  />
 </div>
+
+
+
+
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KYOR1X&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
