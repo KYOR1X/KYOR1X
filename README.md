@@ -15,14 +15,26 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
  
 ### Other Social Networks
 
-[![website](./img/globe-light.svg)](https://tarikvarol.com.tr#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tarikvarol.com.tr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/baytarikv#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/baytarikv#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/baytarikv_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/baytarikv_#gh-dark-mode-only)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/JustHodlEm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/JustHodlEm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://medium.com/@KYORIX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
 
 
 <a href="http://www.github.com/baytarikv07"><img src="https://github-readme-stats.vercel.app/api?username=baytarikv07&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baytarikv07's GitHub stats" /></a>
