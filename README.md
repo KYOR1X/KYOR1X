@@ -49,3 +49,9 @@ src="https://img.shields.io/github/followers/JustHodlEm?logo=github&style=for-th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOR1X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="xxxx" height="30" width="40" /></a>
+</p>
