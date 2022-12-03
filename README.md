@@ -16,13 +16,6 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
 ### Other Social Networks
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
-
-###  Skills
-
-<div align="left">
   <a href="https://twitter.com/JustHodlEm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -31,9 +24,15 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
   </a>
   <a href="https://medium.com/@KYORIX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-    <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" width="52" height="40" alt="medium logo"  />
    
   </a>
+</div>
+
+### Skills 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+ <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" width="52" height="40" alt="medium logo"  />
 </div>
 
 ###
