@@ -36,10 +36,8 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
 </div>
 
 ###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyor1x&" alt="kyor1x" /></p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KYOR1X.KYOR1X&"  />
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyor1x&" alt="kyor1x" /></p>
-
